@@ -1,6 +1,7 @@
 name: kaaliye_v2
 description: KAALIYE - Shaqo hel. Shaqaale hel.
 publish_to: "none"
+
 version: 2.0.0+1
 
 environment:
@@ -18,5 +19,6 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
   assets:
     - assets/images/kaaliye_logo.png
