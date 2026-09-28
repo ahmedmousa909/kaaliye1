@@ -11,7 +11,7 @@ import '../widgets/kaaliye_header.dart';
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
-  static const List<CategoryModel> categories = [
+  static final List<CategoryModel> categories = [
     CategoryModel(title: 'Café & Restaurant', emoji: '☕'),
     CategoryModel(title: 'Farsamo', emoji: '🛠️'),
     CategoryModel(title: 'Nadaafad', emoji: '🧹'),
