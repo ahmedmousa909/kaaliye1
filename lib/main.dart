@@ -22,7 +22,7 @@ class KaaliyeApp extends StatelessWidget {
           seedColor: AppColors.blue,
         ),
       ),
-      home: const HomeScreen(),
+      home: HomeScreen(),
     );
   }
 }
